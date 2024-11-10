@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Tarun-Seeram
-- 👀 I’m interested in ...development
-- 🌱 I’m currently learning ...java,MySql
-- 📫 How to reach me ...tarunseeram1175@gmail.com
-- 😄 I'm currently working as java developer intern @FutureIntern
-<!---
-Tarun-Seeram/Tarun-Seeram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m [@Tarun-Seeram](https://github.com/Tarun-Seeram)  
+👀 I’m passionate about **software development**, with a focus on **backend development** and **database management**.  
+🌱 Currently learning **Java** and **MySQL**, and exploring frameworks like **Spring** and **Hibernate**.  
+💼 I'm a **Java Developer Intern** at [FutureIntern](https://www.futureintern.com).  
+📫 How to reach me: [tarunseeram1175@gmail.com](mailto:tarunseeram1175@gmail.com)  
+🧑‍💻 Check out my projects and contributions below! 👇
